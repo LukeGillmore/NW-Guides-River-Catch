@@ -1,0 +1,5 @@
+export const GET_FISH_SPECIES = 'GET_FISH_SPECIES';
+export const GET_RIVERS = 'GET_RIVERS';
+export const GET_RIVER_SECTION = 'GET_RIVER_SECTION'; 
+export const GET_CATCHES_HISTORICAL = 'GET_RIVER_SECTION'; 
+export const ADD_CATCH = 'ADD_CATCH'; 
